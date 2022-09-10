@@ -1,4 +1,4 @@
-# Refactored Horiseon Site
+# refactor-challenge-wk1
 A more accessible refactor of the (test) Horiseon website
 
 ## Description
@@ -9,17 +9,21 @@ A more accessible refactor of the (test) Horiseon website, designed so that the 
 
 N/A
 
+## URL
+
+https://zoocko42.github.io/refactor-challenge-wk1/
+
 ## Usage
 
-This site should display a mock-up of a marketing site.
+This site should display a mock-up of a marketing site; users can click on the article names in the nav-bar at the top to go to the sections listed.
 
-## Screenshot
+## Screenshots
 
-![A screenshot of the top of the refactored Horiseon site.](/Assets/horiseon-Refactor-1.jpg)
+![A screenshot of the top of the refactored Horiseon site.](/Assets/horiseon-Refactor-1.JPG?raw=true)
 
-![A screenshot of the middle of the refactored Horiseon site.](/Assets/horiseon-refactor-2.jpg)
+![A screenshot of the middle of the refactored Horiseon site.](/Assets/horiseon-refactor-2.JPG?raw=true)
 
-![A screenshot of the bottom of the refactored Horiseon site.](/Assets/horiseon-refactor-3.jpg)
+![A screenshot of the bottom of the refactored Horiseon site.](/Assets/horiseon-refactor-3.JPG?raw=true)
 
 ## Credits
 
